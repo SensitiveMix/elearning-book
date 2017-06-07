@@ -4,3 +4,4 @@
 #### [数据库教程](https://github.com/SensitiveMix/elearning-book/blob/master/sql.md)
 #### [国外计算机资源](https://github.com/SensitiveMix/elearning-book/blob/master/george.md)
 #### [python](https://learnxinyminutes.com/docs/python3/)
+#### [Learn X in Y minutes](https://learnxinyminutes.com/)
