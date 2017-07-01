@@ -8,3 +8,4 @@
 #### [前端框架对比](http://jeffcarp.github.io/frontend-hyperpolyglot/)
 #### [常见的设计模式](常用的Javascript设计模式)
 #### [分布式架构](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
+#### [Express Session原理](http://nodewebapps.com/2017/06/18/how-do-nodejs-sessions-work/)
